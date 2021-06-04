@@ -1,0 +1,3 @@
+ git config --get remote.[REMOTE].url
+ git ls-remote --get-url [REMOTE]
+ git remote show [REMOTE]
